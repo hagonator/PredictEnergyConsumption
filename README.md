@@ -15,7 +15,7 @@ For more details see the [task file](task.pdf) provided by the professor.
   - preprocessing data pipeline
   - model selection using k-fold cross validation for a hyperparameter grid search
   - data visualization using t-SNE
-  - final evaluation on the __test__ set: 43.54 RMSE
+  - final evaluation on the __test__ set: <ins>43.54 RMSE</ins>
 
 ![image](preprocessing_pipeline_small.png)
 ![image](data_visualization_small.png)
