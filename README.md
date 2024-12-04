@@ -1,6 +1,6 @@
 # Predicting the energy consumption of a building
 
---- University Research Project ---
+--- Machine Learning Project - University ---
 
 ## Task
 Given detailed characteristics of buildings, the goal is to predict their Energy Usage Intensity (EUI).
