@@ -18,4 +18,4 @@ For more details see the [task file](task.pdf) provided by the professor.
   - final evaluation on the __test__ set: 43.54 RMSE
 
 ![image](preprocessing_pipeline_small.png)
-![image](data_visualization_small.PNG)
+![image](data_visualization_small.png)
